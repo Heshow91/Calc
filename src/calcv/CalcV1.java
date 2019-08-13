@@ -2,6 +2,8 @@ package calcv;
 import java.util.Scanner;
 public class CalcV1 {
 
+	//private static Scanner scanner;
+
 	private static Scanner scanner;
 
 	public static void main(String[] args) {
